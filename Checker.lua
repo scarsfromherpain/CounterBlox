@@ -14,5 +14,5 @@ return {
 "", -- @
 "", -- @
 "", -- @
-"349EF282-B7D0-46DD-BAF5-74CBC9FA8829", -- @scarsfromherpain
+"", -- @scarsfromherpain
 }
